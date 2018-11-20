@@ -13,3 +13,4 @@
 ## Usage
 - Upload 32x32 grayscale images (just like those in MNIST dataset) which can be found at <a href="https://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset">this link</a>.
 - Character should be written in white over a black background.
+- Python code used to create the model is present in this <a href="https://colab.research.google.com/drive/1HSajdYsq3r_WS_aE1IW4tJnAb67QESRK">colab notebook</a>
